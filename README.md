@@ -1,5 +1,5 @@
 # bf-tui
-A brainfck interpreter with tui
+bf-tui is a brainfuck interpreter written with c++ using the ncurses libary
 
 ![](https://github.com/io3dev/bf-tui/blob/main/images/Hello_World.gif)
 
